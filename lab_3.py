@@ -65,7 +65,7 @@ for N in range(1000,5001,1000):
     # print(A)
 
 
-    # QuickSort(B, 0, len(B)-1)
+    # InsertSort(B)
     print("---")
     # print(B)
 
